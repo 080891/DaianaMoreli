@@ -4,3 +4,4 @@ test2
 test3
 teste4
 teste5
+lembrei do comando: git status
